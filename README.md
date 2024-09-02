@@ -15,7 +15,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="45" height="45" /> Skills & Tools
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pycharm,jupyter,hadoop,spark,tableau,matlab,r,oracle,mysql,jira,bitbucket,git,latex&titles=true&theme=light" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pycharm,jupyter,hadoop,spark,tableau,matlab,r,oracle,mysql,jira,bitbucket,git,latex&titles=true&theme=dark" />
   </a>
 </p>
 
